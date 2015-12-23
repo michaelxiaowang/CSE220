@@ -1,10 +1,3 @@
-/*
-Homework #5
-name: MICHAEL_WANG
-sbuid: 109055666
-*/
-
-
 #include <stdlib.h>
 #include <stdio.h>
 

@@ -1,7 +1,3 @@
-# Homework #2
-# name: MICHAEL_WANG
-# sbuid: 109055666
-
 .text
 .globl main
 

@@ -1,9 +1,3 @@
-/*
-Homework #8
-name: MICHAEL_WANG
-sbuid: 109055666
-*/
-
 #include "hw8.h"
 
 size_t hw_strlen(const char *str) {
